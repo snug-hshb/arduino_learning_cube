@@ -21,7 +21,7 @@ by snug@hackerspace-bremen.de
 	bom (bill of material)
 	stl file for 3d printable case
 	skp (sketchup) design file for 3d printable case 
-	gcode file for direct printing 
+	gcode file for direct printing (Anet I3 Max)
 	(material pla, 0.4mm nozzle, 0.2mm layer height, infill=20%, bed temp 60°, hotend temp 190°)
 	pin assignment text file
 	readme.txt - this file
